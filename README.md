@@ -55,7 +55,7 @@ try SwiftStylisher.default.applyStyle(className: ".nameLabel", forObject: self.u
 
 ```
 
-Check [How SwiftStylish Works](how-stylish-works) for information about applying styles .
+Check [How SwiftStylish Works](https://github.com/DSRCorporation/stylish/wiki/how-stylish-works) for information about applying styles .
 
 
 
