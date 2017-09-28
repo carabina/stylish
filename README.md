@@ -1,5 +1,3 @@
-# stylish
-
 SwiftStylish is a Swift framework for iOS that lets you style UI elements in a convenient way using style files. 
 
 # Requirements
