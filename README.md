@@ -275,7 +275,7 @@ See [Control State](Values/control-state) for details.
 
 Check [Supported Keys](tags) for all supported style keys.
 
-Check [Values](values) for all supported value types. 
+Check [Values](https://github.com/DSRCorporation/stylish/wiki/values) for all supported value types. 
 
 # License
 
