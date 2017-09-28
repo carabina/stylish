@@ -279,4 +279,4 @@ Check [Values](values) for all supported value types.
 
 # License
 
-AFNetworking is released under the MIT license. See `LICENSE` for details.
+SwiftStylish is released under the MIT license. See `LICENSE` for details.
