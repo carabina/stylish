@@ -276,3 +276,7 @@ See [Control State](Values/control-state) for details.
 Check [Supported Keys](tags) for all supported style keys.
 
 Check [Values](values) for all supported value types. 
+
+# License
+
+AFNetworking is released under the MIT license. See `LICENSE` for details.
