@@ -65,9 +65,9 @@ Framework supports variables, stored in a separate from style classes files.
 Any file type can be used.  
 Variables must be split into root-level groups using keys:
 
-- `@colors` - [Color](Values/color)
-- `@fonts` - [Font](Values/font)
-- `@numbers` - [Float](Values/float)
+- `@colors` - [Color](https://github.com/DSRCorporation/stylish/wiki/values-color)
+- `@fonts` - [Font](https://github.com/DSRCorporation/stylish/wiki/values-font)
+- `@numbers` - [Float](https://github.com/DSRCorporation/stylish/wiki/values-float)
 
 Variables won't be parsed in cases:
 
@@ -268,12 +268,12 @@ In this example the result backgrounColor value in `class3` is **#ff0000**.
 
 Control state can be specified using `@state` key for any UI element supporting it.
 
-See [Control State](Values/control-state) for details.
+See [Control State](https://github.com/DSRCorporation/stylish/wiki/values-control-state) for details.
 
 
 ## Supported style keys & values
 
-Check [Supported Keys](tags) for all supported style keys.
+Check [Supported Keys](https://github.com/DSRCorporation/stylish/wiki/tags) for all supported style keys.
 
 Check [Values](https://github.com/DSRCorporation/stylish/wiki/values) for all supported value types. 
 
